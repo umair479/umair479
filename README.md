@@ -1,5 +1,3 @@
-https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Muhammad%20Umair&fontSize=50&descAlign=55&descAlignY=51
-
 # Muhammad Umair
 
 ## AI/ML Developer | Full Stack Developer
