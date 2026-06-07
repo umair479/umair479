@@ -1,16 +1,31 @@
-## Hi there 👋
+# Muhammad Umair
 
-<!--
-**umair479/umair479** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI/ML Developer | Full Stack Developer
 
-Here are some ideas to get you started:
+🎓 BS Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+I am passionate about Artificial Intelligence, Machine Learning, and Web Development. I enjoy building intelligent applications and solving real-world problems through technology.
+
+### Skills
+- Python
+- JavaScript
+- React.js
+- TensorFlow
+- Machine Learning
+- Git & GitHub
+
+### Featured Projects
+- Crypto Analysis & Trading Alert Bot
+- Pakistan AR Guide
+- AI Chess Game
+- Rescue Robot (A* Search)
+- N-Body Solver
+
+### Certifications
+- Machine Learning Specialization
+- AI & Deep Learning Certifications
+- Web Development Certifications
+
+### Contact
+- GitHub: github.com/umair479
